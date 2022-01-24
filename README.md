@@ -1,6 +1,6 @@
 # Minimalist Weather App
 
-![img1](./assets/screenshots/1.png) ![img2](./assets/screenshots/2.png) ![img3](./assets/screenshots/3.png)
+![alt](./assets/screenshot/1.png)
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. If you want to make a change, please use the develop branch and open a pull request.
@@ -18,7 +18,7 @@ git clone
 ```
 After you build you can install dependencies.
 ```
-cd minimalist-weather-app
+cd Minimalist-Weather-App
 npm install
 ```
 Now you can start app
