@@ -14,7 +14,7 @@ The things you will need in order to use the app and how to install them.
 ### How to use
 First you need to download project.
 ```
-git clone 
+git clone https://github.com/rknyryn/Minimalist-Weather-App.git
 ```
 After you build you can install dependencies.
 ```
